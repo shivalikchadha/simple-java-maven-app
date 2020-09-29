@@ -6,3 +6,9 @@
        name: nginx
        state: present
        update_cache: yes
+
+    - service:
+       name: nginx
+       enabled: yes
+       state: started
+
