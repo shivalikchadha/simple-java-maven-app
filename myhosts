@@ -1,4 +1,2 @@
 [loadbalancer]
 10.128.0.23
-[webserver]
-10.128.0.23
