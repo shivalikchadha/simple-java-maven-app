@@ -9,5 +9,5 @@
 
     - service:
        name: nginx
-       enabled: yes
+       enabled: no
        state: started
